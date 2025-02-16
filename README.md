@@ -17,14 +17,3 @@ I'm currently pursuing Bachelors Degree in Computer Science field
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=VNReddy-20&limit=5&theme=neon&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=VNReddy-20&icon=10&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-[![](https://visitcount.itsvg.in/api?id=VNReddy-20&label=96&pretty=false)](https://visitcount.itsvg.in)
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=VNReddy-20&label=96&pretty=false" />
-</a>
