@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏻‍🎓 Computer Science Graduate in Engg ♂️<br>🌱 currently learning Docker, Kubernetes<br>🎈 Fresher<br>🎞️ Interested in Video Editing<br><br>Hobbies *_* 🎧🎾
+🧑🏻‍🎓 Computer Science Graduate in Engineering <br>🌱 currently learning Docker, Kubernetes<br>🎈 Fresher<br>🎞️ Interested in Video Editing<br><br>Hobbies *_* 🎧🎾
 
 
 ## 🌐 Socials:
